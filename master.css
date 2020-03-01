@@ -1,0 +1,108 @@
+#sss tr:nth-child(odd){background-color: #f2f2f2;}
+
+
+#sss {
+  color: black;
+  padding: 10px;
+  text-align: left;
+  font-size: 25px;
+  width: 100%;
+
+}
+
+#sss td{
+    padding: 10px 10px 10px 180px;
+}
+
+*{
+  margin: 0 auto;
+
+}
+
+body{
+    text-align: center;
+    margin-top: 30px;
+    background-image: url("/Vintage.jpg");
+}
+
+h1{
+  font-family: arial, sans-serif;
+  font-size: 40px;
+  background-color: #1c5cb3;
+}
+
+.page{
+  width: 800px;
+  height: 2000px;
+  background-color: white;
+  margin: 0 auto;
+  box-shadow: black 0px 4px 9px;
+  border-radius: 15px;
+}
+
+.head{
+  border-bottom: 1px solid black;
+  padding: 10px;
+  color: white;
+  background-color: #1c5cb3;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.content{
+  width: 100%;
+  padding: 0px;
+  margin-top: 100px;
+}
+.content1{
+  width: 50%;
+  padding: 0px;
+  margin-top: 100px;
+}
+ul {
+  font-size: 25px;
+  text-decoration: none;
+  list-style: none;
+  padding: 0px;
+  text-align: left;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #1c5cb3;
+}
+a:hover > h1{
+  color: #d5e1ef;
+}
+
+.menu{
+  margin: auto;
+  position: absolute;
+  top: 0; bottom: 0; left:0; right:0;
+}
+#spaceA{
+  margin-top: 60px;
+}
+.specialParent{
+  position: relative;
+}
+
+.lirica{
+  text-align: left;
+  font-family: 'times new roman', sans-serif;
+  font-size: 22px;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+
+.titleM{
+  font-size: 40px;
+  text-align: center;
+}
+
+
+h4{
+  color: #1c5cb3;
+}
